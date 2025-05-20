@@ -10,9 +10,7 @@ This repo highlights how an outdated interface route caused a persistent pricing
 While using Scrimba — a platform I genuinely value for learning — I noticed a subtle but persistent pricing discrepancy depending on how the subscription page was accessed.
 
 This wasn’t a cosmetic issue. It was a **functional pricing inconsistency** caused by legacy UI routing and live billing logic being slightly out of sync.
-- Scrimba had two UI layers active: a legacy version (/home) and a newer version (/pricing) for managing subscriptions.
-- Navigating to v1.scrimba.com/home?pricing exposed a different subscription price than the one shown on the official v2 flow.
-- This legacy flow passed the outdated price into **Stripe Checkout**, which completed payment successfully.
+
 - 🧨 **Impact**: Users could pay less than intended if they accessed billing via the legacy route.
 
 This repo documents:
