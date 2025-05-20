@@ -75,4 +75,10 @@ Huge thanks to the Scrimba team for their fast and open response, glad to be of 
 
 ---
 
+## 📜 License
+
+[Creative Commons Attribution 4.0](LICENSE)
+
+---
+
 **Tags:** `ux-bug`, `checkout-flow`, `frontend-routing`, `legacy-ui`, `pricing`, `stripe`, `scrimba`, `case-study`
