@@ -53,7 +53,7 @@ You can find the screenshots that document the bug, the old pricing path and the
 - Scrimba’s support (thanks Emma!) was **quick, clear, and proactive**
 - They immediately escalated to their dev team
 - The `/home?pricing` legacy route was updated to redirect to the correct `/pricing` path
-- They also applied a **subscription discount** to my account as thanks — which I appreciated
+- They also applied a **subscription discount** to my account as thanks — much appreciated!
 - Issue resolved, clean and fast
 
 ---
